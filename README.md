@@ -1,4 +1,4 @@
-# **Automated license plate detection 
+# **Automated license plate detection** 
 
 This project performs Automated License Plate Recognition (ALPR) using OpenCV, NumPy, and Tesseract OCR. It detects the license plate region from a car image and attempts to extract the plate text.
 
